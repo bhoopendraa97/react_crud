@@ -1,0 +1,32 @@
+{
+  "bikes": [
+    {
+      "id": "9ca1",
+      "name": "hero passion pro",
+      "price": "90000",
+      "rto_number": "23BC45mp16",
+      "launch_year": "2010"
+    },
+    {
+      "id": "4079",
+      "name": "Hf Delex",
+      "price": "90000",
+      "rto_number": "24AG59mp35",
+      "launch_year": "2012"
+    },
+    {
+      "id": "1bdb",
+      "name": "passion pro+",
+      "price": "85000",
+      "rto_number": "28JG64mp33",
+      "launch_year": "2008"
+    },
+    {
+      "id": "cdfe",
+      "name": "super splender",
+      "price": "120000",
+      "rto_number": "27kj23mp38",
+      "launch_year": "2019"
+    }
+  ]
+}
